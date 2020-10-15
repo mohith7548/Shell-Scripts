@@ -1,2 +1,2 @@
 # Shell-Scripts
-My Linux Shell scripts
+My Linux Shell scripts.
